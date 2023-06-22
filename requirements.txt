@@ -4,5 +4,5 @@ dask[distributed]
 folium
 geopandas
 shapely
-pystac-client
+pystac-client~=0.6
 odc-stac
